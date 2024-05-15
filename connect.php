@@ -1,5 +1,5 @@
 <?php
-$host = "localhost";
+$host = "52.90.91.231";
 $utente = "root";
 $password = "";
 $nome = "aws";
