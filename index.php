@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../style/index.css">
+    <link rel="stylesheet" href="style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <title>Login Module</title>
@@ -14,7 +14,7 @@
             <div class="container text-center pt-3 pb-3">
                 <h1>Login</h1>
             </div>
-            <form action="../includes/login.php" method="post">
+            <form action="login.php" method="post">
                 <div class="pt-3 pb-3 ms-5 me-5">
                     <div class="mt-3 mb-3">
                         <label for="exampleInputEmail1" class="form-label">Email</label>
