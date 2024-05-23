@@ -1,8 +1,8 @@
 <?php
-$host = "52.90.91.231";
+$host = "localhost";
 $utente = "root";
-$password = "";
-$nome = "aws";
+$password = "mariadb";
+$nome = "site";
 $porta = 3306;
 
 $conn = new mysqli($host,$utente,$password,$nome,$porta);
